@@ -1,8 +1,7 @@
 
 # Bridging Artificial and Human Intelligence
 
-![Course Cover](sandbox:/mnt/data/A_cover_image_for_a_course_titled_'Bridging_Artifi.png)
-
+<img src ="https://miro.medium.com/v2/resize:fit:828/format:webp/1*opLWL8N91zQZ3lpn1Ke3rw.jpeg" width= "400" height= "250">
 This repository holds resources and projects for the course "Bridging Artificial and Human Intelligence," exploring how cognitive science and AI intersect to understand language acquisition, processing, and representation in the human brain and AI systems.
 
 ## Course Overview
