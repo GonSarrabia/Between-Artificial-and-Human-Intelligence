@@ -1,44 +1,45 @@
-# Between-Artificial-and-Human-Intelligence
 
-<img src ="https://media.licdn.com/dms/image/D4E12AQHynFnAiva5Dw/article-cover_image-shrink_720_1280/0/1684425430811?e=1720656000&v=beta&t=Ts171jxRKwCfWJqBhIW1z3Qx8VlDEoK-EjYWBB4U64s" width= "400" height= "250">
+# Bridging Artificial and Human Intelligence
 
-This repository contains materials and projects related to the course "Between-Artificial-and-Human-Intelligence". The course explores the intersection of cognitive science and artificial intelligence in understanding how language is acquired, processed, and represented both in the human brain and in AI systems.
+![Course Cover](sandbox:/mnt/data/A_cover_image_for_a_course_titled_'Bridging_Artifi.png)
 
-## Course Description
+This repository holds resources and projects for the course "Bridging Artificial and Human Intelligence," exploring how cognitive science and AI intersect to understand language acquisition, processing, and representation in the human brain and AI systems.
 
-This course offers a multidisciplinary perspective on language acquisition, bringing together insights from linguistics, psychology, neuroscience, and computer science. It examines the historical debates on language learning mechanisms, the computational models simulating the process, and the current applications of deep learning in natural language processing (NLP).
+## Course Overview
 
-## Topics Covered
+This course integrates insights from linguistics, psychology, neuroscience, and computer science to offer a comprehensive view of language acquisition. It delves into historical debates on language learning, computational models simulating this process, and the latest applications of deep learning in natural language processing (NLP).
 
-- Historical perspectives on language acquisition
+## Key Topics
+
+- Historical views on language acquisition
 - Introduction to natural language processing (NLP)
-- Understanding word embeddings and their arithmetic properties
+- Understanding word embeddings and their properties
 - Training and fine-tuning language models like GPT-2
-- Exploring the functionality of large language models (LLMs) and their capabilities
-- Cross-modality and multimodal models, with a focus on models like WHISPER
-- Analysis of speech and language embeddings and their alignment with neural activity
-- In-context learning versus plasticity-based approaches in AI
-- Hands-on workshops integrating cognitive psychology with advanced AI models
+- Exploring the capabilities of large language models (LLMs)
+- Cross-modality and multimodal models, focusing on models like WHISPER
+- Analyzing speech and language embeddings and their neural alignment
+- In-context learning vs. plasticity-based approaches in AI
+- Practical workshops integrating cognitive psychology with advanced AI models
 
 ## Projects
 
-This repository includes Jupyter notebooks, data files, and reference materials for the following projects:
+This repository includes Jupyter notebooks, data files, and reference materials for these projects:
 
-- Project 1: Language Model Analysis
-  Examining how large language models capture spontaneous speech and its neural correlates.
+- **Project 1: Language Model Analysis**
+  Investigate how large language models capture spontaneous speech and its neural correlates.
 
-- Project 2: Multimodal Learning
-  Investigating the capabilities of multimodal models in understanding and processing human-centric concepts.
+- **Project 2: Multimodal Learning**
+  Explore the capabilities of multimodal models in processing human-centric concepts.
 
-- Project 3: In-Context Learning
-  Analyzing the potential of in-context learning to capture complex cognitive patterns without model retraining.
+- **Project 3: In-Context Learning**
+  Analyze the potential of in-context learning to capture complex cognitive patterns without retraining models.
 
-- Final Project: Cognitive biases in LLM
-  I conducted an analysis of language models to investigate their susceptibility to cognitive biases, employing various techniques to understand and potentially mitigate biases. 
+- **Final Project: Cognitive Biases in LLMs**
+  Conduct an analysis to investigate language models' susceptibility to cognitive biases and techniques to understand and mitigate these biases.
 
 ## Tools and Libraries
 
-Throughout the course, we have utilized various tools and libraries, including:
+Throughout the course, we use various tools and libraries, including:
 
 - [Hugging Face's Transformers](https://huggingface.co/transformers/)
 - [OpenAI's GPT models](https://openai.com/)
@@ -48,7 +49,7 @@ Throughout the course, we have utilized various tools and libraries, including:
 
 ## Usage
 
-To run the notebooks, start JupyterLab or Jupyter Notebook in the project directory.
+To run the notebooks, launch JupyterLab or Jupyter Notebook in the project directory:
 
 ```bash
 jupyter lab
@@ -60,4 +61,4 @@ OR
 jupyter notebook
 ```
 
-Navigate to the desired project folder and open the Jupyter notebook (`.ipynb` file) to view the materials.
+Navigate to the project folder and open the Jupyter notebook (`.ipynb` file) to view the materials.
